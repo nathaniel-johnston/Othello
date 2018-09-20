@@ -3,4 +3,6 @@ This is a university project which uses an Arduino Uno and Omega2 board to creat
 
 In this case, blue is the human player, green is the computer player, yellow is the available moves, and red is the cursor for the player to select which move they want to do:
 
+  ![](othello.gif)
+
 The MiniMax algorithm was used for the computer player to determine the best move to make. The computer was quite good at the game and could beat most people who played against it.
